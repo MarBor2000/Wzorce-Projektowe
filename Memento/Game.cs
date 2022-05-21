@@ -26,8 +26,8 @@ public class Game : memento{
 		}
 	}
 
-	public int lvl ;
-	public int expNeeded ;
-	private Game save ;
+	public int lvl { get; set; }
+	public int expNeeded { get; set; } 
+	private Game save { get; set; }
 
 }
