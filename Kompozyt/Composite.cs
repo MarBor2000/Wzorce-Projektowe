@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-using System.Xml.XPath;
 
 public class Composite {
 	private List<Game> Components ;
